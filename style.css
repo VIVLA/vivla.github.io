@@ -43,18 +43,8 @@ header.startup h1 {
 .btn-primary:hover {
   background-color: #ee4b08;
   border-color: #ee4b08;
-/*}
-.btn {
-  font-weight: 700;
-  text-transform: uppercase;
-  border-radius: 300px;
-  font-family: "Montserrat", sans-serif;
-  padding: 1rem 2rem;
-  background-color: #F05F44;
-  border-color: #F05F44;
 }
-.btn:hover {
-  border-color: #F05F44;
-  background-color: #ee4b08;
-  border-color: #ee4b08;
-}*/
+h4 {
+  color: black;
+  text-decoration: none;
+}
